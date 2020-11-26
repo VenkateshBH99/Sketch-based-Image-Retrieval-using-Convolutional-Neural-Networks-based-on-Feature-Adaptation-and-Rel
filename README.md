@@ -23,3 +23,8 @@ NITK Surathkal
 Link for Dataset and storing intermediate files:
 
 https://drive.google.com/drive/folders/1pbUXg5GywAFC_mj8rLbb_Ng0eLwMYVjL?usp=sharing
+
+
+Official link for dataset:
+
+https://www.cvssp.org/data/Flickr25K/cag17.html
