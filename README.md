@@ -6,11 +6,11 @@ Team no: 14
 
 Team members:
 
-i.Venkatesh B H (171IT248)
+i. Venkatesh B H (171IT248)
 
-ii.Rashad Ahmed (171IT132)
+ii. Rashad Ahmed (171IT132)
 
-iii.Niteesh Kumar (171IT228)
+iii. Niteesh Kumar (171IT228)
 
 
 B.Tech in Information Technology, 7th sem
