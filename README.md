@@ -1,1 +1,24 @@
 # IR_Project
+
+
+Team no: 14
+
+
+Team members:
+
+Venkatesh B H (171IT248)
+
+Rashad Ahmed (171IT132)
+
+Niteesh Kumar (171IT228)
+
+
+B.Tech in Information Technology, 7th sem
+
+
+NITK Surathkal
+
+
+Link to Dataset and storing intermediate files:
+
+https://drive.google.com/drive/folders/1pbUXg5GywAFC_mj8rLbb_Ng0eLwMYVjL?usp=sharing
