@@ -19,6 +19,6 @@ B.Tech in Information Technology, 7th sem
 NITK Surathkal
 
 
-Link to Dataset and storing intermediate files:
+Link for Dataset and storing intermediate files:
 
 https://drive.google.com/drive/folders/1pbUXg5GywAFC_mj8rLbb_Ng0eLwMYVjL?usp=sharing
