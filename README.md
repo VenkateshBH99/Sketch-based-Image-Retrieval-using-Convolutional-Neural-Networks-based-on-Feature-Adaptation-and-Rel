@@ -1,6 +1,6 @@
 # IR_Project
 
-## Title: "Sketch-Based Image Retrieval By Relevance Feedback and Feature Adaptation using Convolutional Neural Networks"
+## Title: "Sketch-based Image Retrieval using Convolutional Neural Networks based on Feature Adaptation and Relevance Feedback"
 
 Team no: 14
 
